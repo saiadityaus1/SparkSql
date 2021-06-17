@@ -33,7 +33,7 @@ def main(args:Array[String]):Unit={
 				val columns=List("txnno","txndate","custno","amount","category","product","city","state","spendby")
 
 				println
-				println("=====================2=======================")
+				println("==============================3==============")
 
 				val lisstr= List("zeyobron","zeyo","analytics").filter(x=>x.contains("zeyo")).foreach(println)
 
